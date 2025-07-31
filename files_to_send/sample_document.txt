@@ -1,0 +1,17 @@
+Sample Document for Email Sending
+
+This is a sample document that will be attached to emails sent by the email_sender.py script.
+
+Date: 2024
+Purpose: Demonstration of file attachment functionality
+
+You can replace this file with any documents you want to send to your recipients.
+
+Supported file types:
+- Text files (.txt)
+- PDF documents (.pdf)
+- Images (.jpg, .png, .gif)
+- Microsoft Office documents (.docx, .xlsx, .pptx)
+- And many more...
+
+Note: Be mindful of file sizes as most email providers have attachment size limits (typically 25MB).
