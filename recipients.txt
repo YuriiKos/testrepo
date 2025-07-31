@@ -1,0 +1,10 @@
+# Recipients file - one email address per line
+# Lines starting with # are ignored
+
+recipient1@example.com
+recipient2@example.com
+recipient3@example.com
+
+# You can add more recipients below:
+# john.doe@company.com
+# jane.smith@organization.org
