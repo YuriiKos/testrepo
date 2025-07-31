@@ -1,0 +1,15 @@
+This is an example file for testing the file delivery script.
+
+It contains some sample content that demonstrates how the script works.
+
+Key features of the file delivery script:
+- Sends files via email to multiple recipients
+- Supports various file types (PDF, DOC, TXT, CSV, etc.)
+- Includes proper error handling and logging
+- Configurable email settings
+- Command-line interface for easy automation
+
+You can replace this file with any document you want to send.
+
+Date: $(date)
+Purpose: Testing file delivery functionality

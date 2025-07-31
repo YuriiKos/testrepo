@@ -1,0 +1,12 @@
+# Example delivery list
+# One email address per line
+# Lines starting with # are comments and will be ignored
+
+user1@example.com
+user2@example.com
+team@company.com
+admin@domain.org
+
+# You can add more email addresses here
+# manager@company.com
+# support@example.com
